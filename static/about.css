@@ -1,0 +1,15 @@
+#about{
+    /* text-align: center; */
+    padding: 50px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size:1.2rem;
+   
+}
+#aboutContainer{
+    height: 100vh;
+}
+#aboutContainer h1{
+    text-align: center;
+}
